@@ -111,9 +111,9 @@ h2 {
 	font-size: 18px;
 }
 
-#wca-project {order:-3;}
-#population-project {order:-2;}
-#street-project {order:-1}
+#wca-project {order:-2;}
+#population-project {order:-1;}
+#powerplant-project {order:-3}
 
 .div-link {	
 }
